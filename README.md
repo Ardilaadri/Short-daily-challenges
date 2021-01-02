@@ -8,6 +8,4 @@ _Este será un repositorio que será como un taller en el que se construiran peq
 
 ## Gracias por visitar este repositorio
 
----
-
 ⌨️ con ❤️ por [Ardilaadri](https://github.com/Ardilaadri) 😊
