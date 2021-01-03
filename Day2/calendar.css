@@ -3,8 +3,12 @@
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-section {
+h1,
+h2 {
   text-align: center;
+}
+
+section {
   width: 300px;
 }
 
