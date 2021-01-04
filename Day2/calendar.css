@@ -37,3 +37,11 @@ li {
   font-weight: bold;
   text-align: center;
 }
+
+#active {
+  background: rgba(98, 0, 255, 0.287);
+}
+
+#active:hover {
+  background: rgba(25, 0, 255, 0.479);
+}
