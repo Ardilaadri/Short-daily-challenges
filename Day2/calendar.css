@@ -8,6 +8,11 @@ h2 {
   text-align: center;
 }
 
+.general-container {
+  display: flex;
+  justify-content: space-around;
+}
+
 section {
   width: 300px;
 }
