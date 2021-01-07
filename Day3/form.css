@@ -20,3 +20,31 @@ section {
   );
   /* filter: hue-rotate(120deg); */
 }
+
+.box {
+  position: relative;
+  padding: 50px;
+  width: 360px;
+  height: 480px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 30px;
+  box-shadow: 0 5px 35px rgba(0, 0, 0);
+}
+
+.box::after {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
+  border-radius: 29px;
+  pointer-events: none;
+}
+
+.inputBx img {
+  width: 30px;
+}
