@@ -43,8 +43,34 @@ section {
   bottom: 5px;
   border-radius: 29px;
   pointer-events: none;
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.3) 0%,
+    rgba(255, 255, 255, 0.1) 15%,
+    transparent 50%,
+    transparent 85%,
+    rgba(255, 255, 255, 0.3) 100%
+  );
+}
+
+.box .form {
+  position: relative;
+  width: 100%;
+}
+
+.box .form h2 {
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-bottom: 30px;
 }
 
 .inputBx img {
   width: 30px;
+}
+
+.box .form .inputBx {
+  position: relative;
+  width: 100%;
+  margin-bottom: 20px;
 }
