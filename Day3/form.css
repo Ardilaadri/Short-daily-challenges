@@ -18,7 +18,17 @@ section {
     #6a040f 50%,
     #380045 100%
   );
-  /* filter: hue-rotate(120deg); */
+
+  animation: animate 10s linear infinite;
+}
+
+@keyframes animate {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+  }
 }
 
 .box {
