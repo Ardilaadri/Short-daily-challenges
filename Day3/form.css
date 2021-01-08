@@ -110,9 +110,6 @@ section {
   cursor: pointer;
 }
 
-.box .form .inputBx input[type="checkbox"] {
-}
-
 .box .form .inputBx img {
   width: 30px;
   position: absolute;
