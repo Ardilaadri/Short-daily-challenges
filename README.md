@@ -4,7 +4,10 @@ _Diariamente subiré un nuevo reto que haya realizado. Urtilizare diferentes met
 
 ## Fuentes 🚀
 
-_Los dos primeros días han sido de tutoriales del canal de youtube midudev [https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ]_
+_Tutoriales replicados_
+
+- Day1 - [@Midudev](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ)
+- Day1 - [@Midudev](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ)
 
 ## Sugerencias
 
