@@ -30,4 +30,8 @@ section > .box2 {
 
 section > .box > h2 {
   color: #e63946;
+  font-size: 6vw;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
 }
