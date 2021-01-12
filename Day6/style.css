@@ -22,3 +22,12 @@ section > .box {
   width: 100%;
   align-items: center;
 }
+
+section > .box > .box2 {
+  background: red;
+  clip-path: polygon(0 0, 100% 0, 100% 50%, 0 50%);
+}
+
+section > .box > h2 {
+  color: red;
+}
