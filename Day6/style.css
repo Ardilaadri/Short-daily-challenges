@@ -24,10 +24,10 @@ section > .box {
 }
 
 section > .box > .box2 {
-  background: red;
+  background: #e63946;
   clip-path: polygon(0 0, 100% 0, 100% 50%, 0 50%);
 }
 
 section > .box > h2 {
-  color: red;
+  color: #e63946;
 }
