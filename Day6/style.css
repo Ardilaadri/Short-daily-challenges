@@ -23,11 +23,10 @@ section > .box {
   align-items: center;
 }
 
-section > .box2 {
+section > .box.box2 {
   background: #e63946;
   clip-path: polygon(0 0, 100% 0, 100% 50%, 0 50%);
 }
-
 section > .box > h2 {
   color: #e63946;
   font-size: 6vw;
