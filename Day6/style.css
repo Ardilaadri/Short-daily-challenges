@@ -33,4 +33,26 @@ section > .box > h2 {
   text-align: center;
   display: flex;
   flex-direction: column;
+  animation: animate 3s ease-in-out infinite;
+}
+@keyframes animate {
+  0%,
+  45% {
+    transform: translateY(-70%);
+  }
+  55%,
+  90% {
+    transform: translateY(70%);
+  }
+  100% {
+    transform: translateY(-70%);
+  }
+}
+
+section > .box.box2 > h2 {
+  color: #fff;
+}
+section > .box > h2 > span:nth-child(2) {
+  line-height: 1em;
+  font-size: 2em;
 }
