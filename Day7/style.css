@@ -19,3 +19,10 @@ body {
   align-items: center;
   flex-wrap: wrap;
 }
+
+.container .loader {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  margin: 100px;
+}
