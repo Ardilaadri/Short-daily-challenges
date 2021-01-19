@@ -1,0 +1,30 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background: #000822;
+}
+
+.container {
+  position: relative;
+  width: 800px;
+}
+
+.container .signature path {
+  fill: transparent;
+  stroke: #31e8ff;
+  stroke-miterlimit: 10;
+  stroke-width: 6px;
+}
+
+line {
+  fill: none;
+  stroke: #31e8ff;
+  stroke-miterlimit: 10;
+  stroke-width: 6px;
+}
