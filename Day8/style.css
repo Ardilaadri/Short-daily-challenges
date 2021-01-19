@@ -52,10 +52,24 @@ body {
   padding: 30px 0;
 }
 
+.container .card:first-child .circle,
+.container .card:first-child .content a {
+  background: #ffaf00;
+}
+
+.container .card:nth-child(2) .circle,
+.container .card:nth-child(2) .content a {
+  background: #da2268;
+}
+
+.container .card:last-child .circle,
+.container .card:last-child .content a {
+  background: #bb02ff;
+}
 .container .card .content {
   position: absolute;
   bottom: 10px;
-  page-break-after: 20px;
+  padding: 20px;
   text-align: center;
 }
 
