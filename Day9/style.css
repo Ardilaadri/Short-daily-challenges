@@ -20,6 +20,8 @@ body {
   stroke: #31e8ff;
   stroke-miterlimit: 10;
   stroke-width: 6px;
+  stroke-dasharray: 1995;
+  stroke-dashoffset: 1995;
 }
 
 line {
@@ -27,4 +29,6 @@ line {
   stroke: #31e8ff;
   stroke-miterlimit: 10;
   stroke-width: 6px;
+  stroke-dasharray: 125;
+  stroke-dashoffset: 125;
 }
