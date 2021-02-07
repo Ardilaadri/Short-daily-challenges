@@ -101,3 +101,7 @@ body {
   text-transform: uppercase;
   font-weight: 600;
 }
+
+.container .card span {
+  transition: 0.5;
+}
