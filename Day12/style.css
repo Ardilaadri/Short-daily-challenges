@@ -60,3 +60,8 @@ body {
   opacity: 0.1;
   transition: 0.5s;
 }
+
+.container .card:hover .content h2 {
+  opacity: 1;
+  transform: translateY(-70px);
+}
