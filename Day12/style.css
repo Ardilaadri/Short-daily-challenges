@@ -90,3 +90,14 @@ body {
   font-weight: 300;
   transition: 0.5s;
 }
+
+.container .card .content a {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 8px 15px;
+  background: #fff;
+  color: #0c002b;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+}
