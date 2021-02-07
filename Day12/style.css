@@ -32,6 +32,15 @@ body {
   align-items: center;
   margin: 30px;
   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.container:hover .card {
+  opacity: 0.2;
+}
+
+.container .card:hover {
+  opacity: 1;
 }
 
 .container .card::before {
@@ -104,6 +113,11 @@ body {
 
 .container .card span {
   transition: 0.5;
+  opacity: 0;
+}
+
+.container .card:hover span {
+  opacity: 1;
 }
 
 .container .card span:nth-child(1) {
