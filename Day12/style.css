@@ -65,3 +65,17 @@ body {
   opacity: 1;
   transform: translateY(-70px);
 }
+
+.container .card .content h3 {
+  position: relative;
+  font-size: 1.5em;
+  color: #fff;
+  z-index: 2;
+  opacity: 0.5;
+  letter-spacing: 1px;
+  transition: 0.5s;
+}
+
+.container .card:hover .content h3 {
+  opacity: 1;
+}
