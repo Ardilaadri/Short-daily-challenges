@@ -76,6 +76,17 @@ body {
   transition: 0.5s;
 }
 
-.container .card:hover .content h3 {
+.container .card:hover .content h3,
+.container .card:hover .content p {
   opacity: 1;
+}
+
+.container .card .content p {
+  position: relative;
+  font-size: 1em;
+  color: #fff;
+  z-index: 2;
+  opacity: 0.5;
+  font-weight: 300;
+  transition: 0.5s;
 }
