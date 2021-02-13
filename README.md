@@ -7,9 +7,8 @@ _Diariamente subiré un nuevo reto que haya realizado. Urtilizare diferentes met
 _Tutoriales replicados de: _
 
 - [@Midudev](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ)
-- [@Midudev](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ)
 - [@Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
-- [@Midudev](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ)
+
 
 ## Sugerencias
 
