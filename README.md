@@ -4,12 +4,11 @@ _Diariamente subiré un nuevo reto que haya realizado. Urtilizare diferentes met
 
 ## Fuentes 🚀
 
-_Tutoriales replicados_
+_Tutoriales replicados de: _
 
-- Day1 - [@Midudev](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ)
-- Day2 - [@Midudev](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ)
-- Day3 - [@Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
-- Day4 - [@Midudev](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ)
+- [@Midudev](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ)
+- [@Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+
 
 ## Sugerencias
 
