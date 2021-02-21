@@ -27,6 +27,7 @@ body {
   height: 200px;
   border-radius: 50%;
   background: #0d2323;
+  animation: animate 2s linear infinite;
 }
 
 .container .loader::before {
